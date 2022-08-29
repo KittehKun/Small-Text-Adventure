@@ -1,0 +1,15 @@
+/Users/zhunt/Desktop/VS Code Projects/Small Text Adventure/bin/Debug/net6.0/Small Text Adventure
+/Users/zhunt/Desktop/VS Code Projects/Small Text Adventure/bin/Debug/net6.0/Small Text Adventure.deps.json
+/Users/zhunt/Desktop/VS Code Projects/Small Text Adventure/bin/Debug/net6.0/Small Text Adventure.runtimeconfig.json
+/Users/zhunt/Desktop/VS Code Projects/Small Text Adventure/bin/Debug/net6.0/Small Text Adventure.dll
+/Users/zhunt/Desktop/VS Code Projects/Small Text Adventure/bin/Debug/net6.0/Small Text Adventure.pdb
+/Users/zhunt/Desktop/VS Code Projects/Small Text Adventure/obj/Debug/net6.0/Small Text Adventure.csproj.AssemblyReference.cache
+/Users/zhunt/Desktop/VS Code Projects/Small Text Adventure/obj/Debug/net6.0/Small Text Adventure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zhunt/Desktop/VS Code Projects/Small Text Adventure/obj/Debug/net6.0/Small Text Adventure.AssemblyInfoInputs.cache
+/Users/zhunt/Desktop/VS Code Projects/Small Text Adventure/obj/Debug/net6.0/Small Text Adventure.AssemblyInfo.cs
+/Users/zhunt/Desktop/VS Code Projects/Small Text Adventure/obj/Debug/net6.0/Small Text Adventure.csproj.CoreCompileInputs.cache
+/Users/zhunt/Desktop/VS Code Projects/Small Text Adventure/obj/Debug/net6.0/Small Text Adventure.dll
+/Users/zhunt/Desktop/VS Code Projects/Small Text Adventure/obj/Debug/net6.0/refint/Small Text Adventure.dll
+/Users/zhunt/Desktop/VS Code Projects/Small Text Adventure/obj/Debug/net6.0/Small Text Adventure.pdb
+/Users/zhunt/Desktop/VS Code Projects/Small Text Adventure/obj/Debug/net6.0/Small Text Adventure.genruntimeconfig.cache
+/Users/zhunt/Desktop/VS Code Projects/Small Text Adventure/obj/Debug/net6.0/ref/Small Text Adventure.dll
