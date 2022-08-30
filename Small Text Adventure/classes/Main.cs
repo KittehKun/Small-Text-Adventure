@@ -19,5 +19,7 @@ switch(menu.MenuChoice)
         Environment.Exit(0); //Ends Program
         break;
     default:
+        Console.WriteLine("Something has broken.");
+        Environment.Exit(0);
         break;
 }

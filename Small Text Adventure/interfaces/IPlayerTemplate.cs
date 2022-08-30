@@ -6,10 +6,5 @@ namespace Small_Text_Adventure.interfaces
         {
             get;
         }
-
-        public int HealthPoints
-        {
-            get;
-        }
     }
 }

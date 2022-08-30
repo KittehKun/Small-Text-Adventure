@@ -6,15 +6,11 @@ namespace Small_Text_Adventure.classes
     {
         //Interface
         public string Name { get; private set; }
-        public int HealthPoints { get; private set; }
-
         //Constructor
         public Player()
         {
             Console.Clear();
-            this.Name = SetPlayerName();
-            this.HealthPoints = 100;
-            
+            this.Name = SetPlayerName();            
         }
 
         //Methods
